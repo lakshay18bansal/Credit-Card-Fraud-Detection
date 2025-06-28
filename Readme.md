@@ -4,7 +4,7 @@ A focused notebook-based project that detects fraudulent credit card transaction
 
 ---
 
-## 🗂️ Project Overview
+##  Project Overview
 
 This repo provides a standalone Jupyter notebook (`IDFC_Convolve_Hackathon.ipynb`) which includes:
 - Exploratory data analysis on credit card transactions
@@ -18,7 +18,7 @@ Also included:
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 Credit Card Fraud Detection/
@@ -30,7 +30,7 @@ Credit Card Fraud Detection/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Unzip and extract the dataset:
  
@@ -42,7 +42,7 @@ Credit Card Fraud Detection/
 
 ---
 
-## 🔍 Highlights
+##  Highlights
 
 - Performed EDA to understand fraud patterns
 - Engineered relevant features (e.g., transaction amounts, timestamps, user behavior)
