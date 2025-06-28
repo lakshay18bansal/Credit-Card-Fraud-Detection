@@ -12,7 +12,7 @@ This repo provides a standalone Jupyter notebook (`IDFC_Convolve_Hackathon.ipynb
 - Model training, validation, and evaluation for fraud detection
 - Clear documentation of approach and findings
 
-Also included:  
+Apart from that this repo includes:  
 - `Dataset.zip` — contains the dataset(s) used for analysis  
 - `Hackathon_Documentation_Prime Transformers.pdf` — detailed write-up submitted for the hackathon
 
